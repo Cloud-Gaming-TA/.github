@@ -3,10 +3,10 @@
 This is repository for cloud gaming final works
 
 ### Contributors 🙋‍♀️:
-**1. Jordan Theo Immanuel Sihombing (18120020)**
-**2. I Made Aditya Putra J.D. (18120037)**
-**3. Refael Arifin (18120057)**
-**4. Rafael Sinjunatha Wulangsih (18120048)**
+**1. Jordan Theo Immanuel Sihombing (18120020)** </br>
+**2. I Made Aditya Putra J.D. (18120037)** </br>
+**3. Refael Arifin (18120057)** </br>
+**4. Rafael Sinjunatha Wulangsih (18120048)** </br>
   
 
 ### A. Documentation 📄 
