@@ -10,7 +10,7 @@ This is repository for cloud gaming final works
   
 
 ### A. Documentation 📄 
-Below is the list of all available documentation of this project:
+Below is the list of all available documentation of this project: </br>
 [1. API Documentation](https://cloud-gaming-ta.github.io/api-docs/)
 <!--
 
