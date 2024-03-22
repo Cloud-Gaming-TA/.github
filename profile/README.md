@@ -1,7 +1,16 @@
 ## Cloud Gaming Repository
 
-This is repository for all cloud gaming system
+This is repository for cloud gaming final works
 
+### Contributors:
+1. Jordan Theo Immanuel Sihombing (18120020)
+2. I Made Aditya Putra J.D. (18120037)
+3. Refael Arifin (18120057)
+4. Rafael Sinjunatha Wulangsih (18120048)
+  
+
+### A. Documentation 📄 
+[1. API Documentation](https://cloud-gaming-ta.github.io/api-docs/)
 <!--
 
 **Here are some ideas to get you started:**
