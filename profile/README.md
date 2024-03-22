@@ -2,7 +2,7 @@
 
 This is repository for cloud gaming final works
 
-### Contributors:
+### Contributors 🙋‍♀️:
 1. Jordan Theo Immanuel Sihombing (18120020)
 2. I Made Aditya Putra J.D. (18120037)
 3. Refael Arifin (18120057)
